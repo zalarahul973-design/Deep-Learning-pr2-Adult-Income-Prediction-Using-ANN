@@ -522,15 +522,18 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 ```
+===============================
 ### 📊 income_distribution
+===============================
 
 <img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/0044f0a8-6221-47f4-9776-dbde856e08f5" />
 
 ---
 
 
-
+===============================
 ### 🔥 correlation_heatmap
+===============================
 
 <img width="1083" height="790" alt="image" src="https://github.com/user-attachments/assets/c21a4004-26b1-4d34-b765-37ab23847f9d" />
 
@@ -538,8 +541,9 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
+===============================
 ### 📉 training_curves
+===============================
 
 <img width="1490" height="495" alt="image" src="https://github.com/user-attachments/assets/a035ca7b-d77a-44f7-bf56-cc0518930074" />
 
@@ -548,8 +552,9 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
+===============================
 ### ⚡ activation_comparison
+===============================
 
 <img width="1589" height="1083" alt="image" src="https://github.com/user-attachments/assets/8c9008a1-5c33-467b-88d8-495732f9ad08" />
 
@@ -559,8 +564,9 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
+===============================
 ### 🏗️ initializer_comparison
+===============================
 
 <img width="1289" height="690" alt="image" src="https://github.com/user-attachments/assets/3f9e4b78-0624-473e-bf8e-47aad7b902ab" />
 
@@ -568,10 +574,9 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
-
-
+===============================
 ### ⚖️ loss_comparison
+===============================
 
 <img width="1161" height="545" alt="image" src="https://github.com/user-attachments/assets/b527f9b1-bd47-4aaf-8001-519ffa29aff7" />
 
@@ -579,8 +584,10 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
+===============================
 ### 🔄 batch_normalization
+===============================
+
 
 <img width="1489" height="495" alt="image" src="https://github.com/user-attachments/assets/0fa6f9bb-036a-45e2-a420-cd150645182a" />
 
@@ -590,8 +597,9 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
+===============================
 ### 🚀 optimizer_comparison
+===============================
 
 <img width="1168" height="545" alt="image" src="https://github.com/user-attachments/assets/662f02f7-10fa-4bd4-a64c-7f2b4ebfd4d4" />
 
@@ -601,8 +609,9 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
+===============================
 ### 🔲 confusion_matrix
+===============================
 
 <img width="576" height="483" alt="image" src="https://github.com/user-attachments/assets/042aa1a3-b8d3-483e-a0b7-ae5d371196d9" />
 
@@ -611,8 +620,9 @@ The following table summarizes the best recorded results from individual optimiz
 
 
 
-
+===============================
 ### 📈 roc_curve
+===============================
 
 <img width="889" height="690" alt="image" src="https://github.com/user-attachments/assets/a6a6e7de-c89e-4ceb-8411-79894be57721" />
 
